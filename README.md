@@ -1,7 +1,7 @@
 # loading-screen
 
 ## Description:
-in this little project I decided to create a loading screen to learn more about animation techniques and how to use keyframes to give some effects.
+In this little project I decided to create a loading screen to learn more about animation techniques and how to use keyframes to give some effects.
 
 ## Techniques:
 
@@ -11,7 +11,7 @@ in this little project I decided to create a loading screen to learn more about 
 ## Project:
 
 <p align="center">
-  <img src="animated-card.gif" width="700px">
+  <img src="loading.gif" width="700px">
 </p>
 
 ## Technologies
