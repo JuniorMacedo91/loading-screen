@@ -6,7 +6,7 @@ In this little project I decided to create a loading screen to learn more about 
 ## Techniques:
 
  - [x] Animation: ease-in-out, infinite : It shows an effect with a slow movement in the start and end.
- - [x] Keyframes - it creates animations gradually. The best way of using it is define with 0% and 100%.
+ - [x] Keyframes - it creates animations gradually. The best way of using it is defining with 0% and 100%.
 
 ## Project:
 
