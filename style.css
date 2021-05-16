@@ -26,6 +26,7 @@
     transform-origin: bottom center;
 
     animation: cascading 2s ease-in-out infinite;
+    -webkit-box-reflect: below 5px linear-gradient(transparent, transparent, #0005);
 
     color: white;
     font-size: 1.5rem;
