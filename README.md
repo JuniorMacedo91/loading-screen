@@ -3,7 +3,7 @@
 ## Descrição:
 Tela de carregamento para aprender mais sobre animaçãoe como utilizar técnicas de Keyframes
 
-## Techniques:
+## Técnicas:
 
  - [x] Animation: ease-in-out, infinite : Cria efeito com movimento lento do inicio ao fim;
  - [x] Keyframes -  Cria efeitos gradualmente. O melhor jeito para usar é definindo em porcentagem de 0 à 100;
