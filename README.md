@@ -1,21 +1,21 @@
 # loading-screen
 
-## Description:
-In this little project I decided to create a loading screen to learn more about animation techniques and how to use keyframes to give some effects.
+## Descrição:
+Tela de carregamento para aprender mais sobre animaçãoe como utilizar técnicas de Keyframes
 
 ## Techniques:
 
- - [x] Animation: ease-in-out, infinite : It shows an effect with a slow movement in the start and end;
- - [x] Keyframes - it creates animations gradually. The best way of using it is defining with 0% and 100%;
- - [x] -webkit-box-reflect - Reflection effects;
+ - [x] Animation: ease-in-out, infinite : Cria efeito com movimento lento do inicio ao fim;
+ - [x] Keyframes -  Cria efeitos gradualmente. O melhor jeito para usar é definindo em porcentagem de 0 à 100;
+ - [x] -webkit-box-reflect - Efeito reflexo;
 
-## Project:
+## Projeto:
 
 <p align="center">
   <img src="loading.gif" width="700px">
 </p>
 
-## Technologies
+## Tecnologias
 
 [![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML5&labelColor=black)](https://github.com/JuniorMacedo91)
 
